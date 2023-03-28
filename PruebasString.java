@@ -3,7 +3,7 @@ package Trimestre_1.b;
 import java.util.Scanner;
 
 public class PruebasString {
-
+    //David Gonzalez y Diego Huerta
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -27,7 +27,7 @@ public class PruebasString {
         System.out.println("Hola David");
         System.out.println("Hola David");
         System.out.println("Hola David");
-
+        System.out.println("Hola Diego");
 
     }
 }
