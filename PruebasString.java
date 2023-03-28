@@ -21,6 +21,7 @@ public class PruebasString {
         System.out.println("el numero de caracteres de "+nombre+" es: "+nombre.length());
 
         System.out.println("Ejemplo entornos de desarrollo");
+        System.out.println("Ejemplo entornos de desarrollo");
 
 
     }
